@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coloradosprings-webdesign.com/sitemap.xml
