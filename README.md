@@ -1,2 +1,1 @@
-# websitedesignercoloradosprings.com
-websitedesignercoloradosprings.com
+Static site.
