@@ -15,6 +15,10 @@
 - [How Much Does a Website Cost in Colorado Springs? (2026)](https://websitedesignercoloradosprings.com/website-cost/)
 - [Website Design Services in Colorado Springs](https://websitedesignercoloradosprings.com/services/)
 - [Veteran-Owned Business Websites](https://websitedesignercoloradosprings.com/veteran-owned-business-websites/)
+- [Defense and Government Contractor Websites](https://websitedesignercoloradosprings.com/defense-contractor-websites/)
+- [Tourism and Outdoor Business Websites, Pikes Peak Region](https://websitedesignercoloradosprings.com/tourism-outdoor-websites/)
+- [Website Planner](https://websitedesignercoloradosprings.com/website-planner/)
+- [Website Readiness Checklist](https://websitedesignercoloradosprings.com/website-readiness-checklist/)
 - [Web Design Across Southern Colorado](https://websitedesignercoloradosprings.com/locations/)
 - [Web Design Pueblo, CO](https://websitedesignercoloradosprings.com/locations/pueblo-web-design/)
 - [Website Design Durango, CO](https://websitedesignercoloradosprings.com/locations/durango-web-design/)
@@ -44,3 +48,7 @@
 - Headline analyzer: https://websitedesignercoloradosprings.com/tools/headline-analyzer/
 - Website cost calculator: https://websitedesignercoloradosprings.com/tools/website-cost-calculator/
 - Southern Colorado service-area planner: https://websitedesignercoloradosprings.com/locations/#planner
+- Website planner (page map, features and content list by industry, goals and Colorado Springs areas): https://websitedesignercoloradosprings.com/website-planner/
+- Website readiness checklist (30 checks: speed, accessibility, local search, AI answers, lead capture): https://websitedesignercoloradosprings.com/website-readiness-checklist/
+- Capability block builder for government contractors (UEI, CAGE, NAICS format checks): https://websitedesignercoloradosprings.com/defense-contractor-websites/#tool
+- Season planner for tourism and outdoor businesses: https://websitedesignercoloradosprings.com/tourism-outdoor-websites/#tool
